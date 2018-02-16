@@ -6,3 +6,6 @@
 + [гугл-форму](https://docs.google.com/forms/d/e/1FAIpQLSfMLBG8tEaeaUpNWcI5k5KUvKo9d9P7Zde1mCFFpGvpveggDQ/viewform?usp=sf_link)
 + [таблицу](https://docs.google.com/spreadsheets/d/1iHGHcZHF3TQRkkq3k_y1dXcHswtvDthjp3IC7waKkUs/edit?usp=drivesdk&ouid=107227217918005042992), которая получилась после завершения опроса, все задания из третьей части домашнего задания выполнялись там же
 + на всякий случай [ссылка](https://docs.google.com/forms/d/1zVHb-c0murph7bur4Sx61eEO6Z1iVZnMGD7uRku6ED8/edit?usp=sharing) на редактирование гугл-формы
+
+**Выводы**
+В целом, большая часть из опрошенных - девушки. Наибольшей популярностью пользуется социальная сеть **Вконтакте** (т.к. эта сеть является универсальной - общение, музыка, видео, фото), наименьшей - **Facebook**. В основном, люди начинали пользоваться Интернетом в возрасте **11-15 лет**.
